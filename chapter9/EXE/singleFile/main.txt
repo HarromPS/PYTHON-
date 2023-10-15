@@ -1,0 +1,6 @@
+while(True):
+    x = input(">>>");
+    if(x=='exit'):
+        break;
+    for i in range(0,x):
+        print(i);

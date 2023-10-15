@@ -1,0 +1,17 @@
+
+
+Location: India
+Region: Delhi
+Name: New Delhi
+
+Temperature: 32.0 degree Celcius
+Temperature: 89.6 degree Fahrenheit
+Icon: https://cdn.weatherapi.com/weather/64x64/day/143.png
+
+Location: India
+Region: Delhi
+Name: New Delhi
+
+Temperature: 32.0 degree Celcius
+Temperature: 89.6 degree Fahrenheit
+Icon: https://cdn.weatherapi.com/weather/64x64/day/143.png
